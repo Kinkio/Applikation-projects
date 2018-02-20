@@ -1,2 +1,2 @@
-# Home-projects
-Projects i find useful and interesting 
+#Projects
+Projects i find useful and interesting :coffee:
