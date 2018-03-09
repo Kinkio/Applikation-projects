@@ -2,4 +2,5 @@
   path = Applikation-projects 
   url = https://github.com/Kinkio/Applikation-projects.git 
 [submodule "TicTacToeWPF"] 
+  path = Applikation-projects
   url = https://github.com/Kinkio/Applikation-projects.git 
